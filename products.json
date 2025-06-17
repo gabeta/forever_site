@@ -1,394 +1,443 @@
 [
   {
+    "id": 1,
     "name": "Bain de bouche Longrich",
     "category": "Hygiène bucco-dentaire",
     "originalPrice": 5200,
     "currentPrice": 4000,
-    "image": "images/Bain_de_bouche_Longrich.jpeg",
+    "image": "images/bain-de-bouche-longrich-1.jpeg",
     "isPromo": true
   },
   {
+    "id": 2,
     "name": "Arthro SupReviver – Longrich",
     "category": "Produits",
     "originalPrice": 25400,
     "currentPrice": 23000,
-    "image": "images/Arthro_SupReviver__Longrich.jpeg",
+    "image": "images/arthro-supreviver-longrich-2.jpeg",
     "isPromo": true
   },
   {
+    "id": 3,
     "name": "Berry Oil Longrich",
     "category": "Produits",
     "originalPrice": 36500,
     "currentPrice": 34000,
-    "image": "images/Berry_Oil_Longrich.jpeg",
+    "image": "images/berry-oil-longrich-3.jpeg",
     "isPromo": true
   },
   {
+    "id": 4,
     "name": "Libao | Leopower Longrich (complément de fertilité – homme)",
     "category": "Fertilité & Virilité",
     "originalPrice": 35000,
     "currentPrice": 29000,
-    "image": "images/Libao__Leopower_Longrich_complément_de_fertilité__homme.jpeg",
+    "image": "images/libao-leopower-longrich-complement-de-fertilite-homme-4.jpeg",
     "isPromo": true
   },
   {
+    "id": 5,
     "name": "Pâte Dentifrice au Thé Blanc 100g Longrich",
     "category": "Hygiène bucco-dentaire",
     "originalPrice": 3800,
     "currentPrice": 2500,
-    "image": "images/Pâte_Dentifrice_au_Thé_Blanc_100g_Longrich.jpeg",
+    "image": "images/pate-dentifrice-au-the-blanc-100g-longrich-5.jpeg",
     "isPromo": true
   },
   {
+    "id": 6,
     "name": "Calcium – Longrich",
     "category": "Produits",
     "originalPrice": 14400,
     "currentPrice": 13000,
-    "image": "images/Calcium__Longrich.jpeg",
+    "image": "images/calcium-longrich-6.jpeg",
     "isPromo": true
   },
   {
+    "id": 7,
     "name": "Café Cordyceps – Décaféiné",
     "category": "Produits",
     "originalPrice": 8500,
     "currentPrice": 7000,
-    "image": "images/Café_Cordyceps__Décaféiné.jpeg",
+    "image": "images/cafe-cordyceps-decafeine-7.jpeg",
     "isPromo": true
   },
   {
+    "id": 8,
     "name": "Cordyceps Militaris Longrich",
     "category": "Fertilité & Virilité",
     "originalPrice": 90000,
     "currentPrice": 85000,
-    "image": "images/Cordyceps_Militaris_Longrich.jpeg",
+    "image": "images/cordyceps-militaris-longrich-8.jpeg",
     "isPromo": true
   },
   {
+    "id": 9,
     "name": "Savon Noir au Charbon de Bambou",
     "category": "Hygiène Corporelle",
     "originalPrice": 8800,
     "currentPrice": 7500,
-    "image": "images/Savon_Noir_au_Charbon_de_Bambou.jpeg",
+    "image": "images/savon-noir-au-charbon-de-bambou-9.jpeg",
     "isPromo": true
   },
   {
+    "id": 10,
     "name": "Serviette Hygiénique Magnétique Bleue de Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 5500,
     "currentPrice": 4000,
-    "image": "images/Serviette_Hygiénique_Magnétique_Bleue_de_Longrich.jpg",
+    "image": "images/serviette-hygienique-magnetique-bleue-de-longrich-10.jpg",
     "isPromo": true
   },
   {
+    "id": 11,
     "name": "Kit de beauté 3 – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 21600,
     "currentPrice": 17000,
-    "image": "images/Kit_de_beauté_3__Longrich.jpg",
+    "image": "images/kit-de-beaute-3-longrich-11.jpg",
     "isPromo": true
   },
   {
+    "id": 12,
     "name": "Lotion anti-douleur Longrich",
     "category": "Produits",
     "originalPrice": 3000,
     "currentPrice": 2000,
-    "image": "images/Lotion_anti-douleur_Longrich.jpeg",
+    "image": "images/lotion-anti-douleur-longrich-12.jpeg",
     "isPromo": true
   },
   {
+    "id": 13,
     "name": "Protège slip Magnétique de Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 5500,
     "currentPrice": 4000,
-    "image": "images/Protège_slip_Magnétique_de_Longrich.jpg",
+    "image": "images/protege-slip-magnetique-de-longrich-13.jpg",
     "isPromo": true
   },
   {
+    "id": 14,
     "name": "Thé vert Longrich",
     "category": "Produits",
     "originalPrice": 8600,
     "currentPrice": 7500,
-    "image": "images/Thé_vert_Longrich.jpeg",
+    "image": "images/the-vert-longrich-14.jpeg",
     "isPromo": true
   },
   {
+    "id": 15,
     "name": "Thé Tension Longrich",
     "category": "Produits",
     "originalPrice": 8600,
     "currentPrice": 7500,
-    "image": "images/Thé_Tension_Longrich.jpeg",
+    "image": "images/the-tension-longrich-15.jpeg",
     "isPromo": true
   },
   {
+    "id": 16,
     "name": "Parfum Anti-Moustique",
     "category": "Hygiène Corporelle",
     "originalPrice": 7000,
     "currentPrice": 5000,
-    "image": "images/Parfum_Anti-Moustique.jpeg",
+    "image": "images/parfum-anti-moustique-16.jpeg",
     "isPromo": true
   },
   {
+    "id": 17,
     "name": "Liqueur pour la santé",
     "category": "Boissons énergisantes",
     "originalPrice": 17200,
     "currentPrice": 16000,
-    "image": "images/Liqueur_pour_la_santé.jpg",
+    "image": "images/liqueur-pour-la-sante-17.jpg",
     "isPromo": true
   },
   {
+    "id": 18,
     "name": "Déodorant anti-transpirant – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 7000,
     "currentPrice": 5000,
-    "image": "images/Déodorant_anti-transpirant__Longrich.jpeg",
+    "image": "images/deodorant-anti-transpirant-longrich-18.jpeg",
     "isPromo": true
   },
   {
+    "id": 19,
     "name": "Pâte dentifrice anti-carie Longrich (pour enfant)",
     "category": "Hygiène bucco-dentaire",
     "originalPrice": 4000,
     "currentPrice": 2500,
-    "image": "images/Pâte_dentifrice_anti-carie_Longrich_pour_enfant.jpeg",
+    "image": "images/pate-dentifrice-anti-carie-longrich-pour-enfant-19.jpeg",
     "isPromo": true
   },
   {
+    "id": 20,
     "name": "Gel de douche éclaircissant Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 14000,
     "currentPrice": 11000,
-    "image": "images/Gel_de_douche_éclaircissant_Longrich.jpeg",
+    "image": "images/gel-de-douche-eclaircissant-longrich-20.jpeg",
     "isPromo": true
   },
   {
+    "id": 21,
     "name": "Sleep & Nutrients Longrich – Pour un sommeil réparateur",
     "category": "Fertilité & Virilité",
     "originalPrice": 27000,
     "currentPrice": 24000,
-    "image": "images/Sleep__Nutrients_Longrich__Pour_un_sommeil_réparateur.jpeg",
+    "image": "images/sleep-nutrients-longrich-pour-un-sommeil-reparateur-21.jpeg",
     "isPromo": true
   },
   {
+    "id": 22,
     "name": "PowerBank 10500 mAh Longrich",
     "category": "Energie",
     "originalPrice": 30000,
     "currentPrice": 25000,
-    "image": "images/PowerBank_10500_mAh_Longrich.jpeg",
+    "image": "images/powerbank-10500-mah-longrich-22.jpeg",
     "isPromo": true
   },
   {
+    "id": 23,
     "name": "Vitamin Drink – Cordyceps Militaris & Gingembre Noir",
     "category": "Boissons énergisantes",
     "originalPrice": 4500,
     "currentPrice": 3500,
-    "image": "images/Vitamin_Drink__Cordyceps_Militaris__Gingembre_Noir.jpeg",
+    "image": "images/vitamin-drink-cordyceps-militaris-gingembre-noir-23.jpeg",
     "isPromo": true
   },
   {
+    "id": 24,
     "name": "Huile de serpent 120 ml – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 7000,
     "currentPrice": 6000,
-    "image": "images/Huile_de_serpent_120_ml__Longrich.jpeg",
+    "image": "images/huile-de-serpent-120-ml-longrich-24.jpeg",
     "isPromo": true
   },
   {
+    "id": 25,
     "name": "Kit de beauté 4 – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 23500,
     "currentPrice": 16500,
-    "image": "images/Kit_de_beauté_4__Longrich.jpg",
+    "image": "images/kit-de-beaute-4-longrich-25.jpg",
     "isPromo": true
   },
   {
+    "id": 26,
     "name": "Kit Thés – Longrich",
     "category": "Kit de Produits",
     "originalPrice": 27700,
     "currentPrice": 20500,
-    "image": "images/Kit_Thés__Longrich.jpg",
+    "image": "images/kit-thes-longrich-26.jpg",
     "isPromo": true
   },
   {
+    "id": 27,
     "name": "Parfum pour femme – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 16000,
     "currentPrice": 12000,
-    "image": "images/Parfum_pour_femme__Longrich.jpeg",
+    "image": "images/parfum-pour-femme-longrich-27.jpeg",
     "isPromo": true
   },
   {
+    "id": 28,
     "name": "Huile de bain Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 12600,
     "currentPrice": 11500,
-    "image": "images/Huile_de_bain_Longrich.jpeg",
+    "image": "images/huile-de-bain-longrich-28.jpeg",
     "isPromo": true
   },
   {
+    "id": 29,
     "name": "Brosse à dents Longrich",
     "category": "Hygiène bucco-dentaire",
     "originalPrice": 2100,
     "currentPrice": 1500,
-    "image": "images/Brosse_à_dents_Longrich.jpeg",
+    "image": "images/brosse-a-dents-longrich-29.jpeg",
     "isPromo": true
   },
   {
+    "id": 30,
     "name": "Kit de Beauté 2 – Longrich",
     "category": "Kit de Produits",
     "originalPrice": 18500,
     "currentPrice": 15000,
-    "image": "images/Kit_de_Beauté_2__Longrich.jpg",
+    "image": "images/kit-de-beaute-2-longrich-30.jpg",
     "isPromo": true
   },
   {
+    "id": 31,
     "name": "Kit de Beauté 1 – Longrich",
     "category": "Kit de Produits",
     "originalPrice": 24900,
     "currentPrice": 22000,
-    "image": "images/Kit_de_Beauté_1__Longrich.jpg",
+    "image": "images/kit-de-beaute-1-longrich-31.jpg",
     "isPromo": true
   },
   {
+    "id": 32,
     "name": "Kit Santé intime 1- Longrich",
     "category": "Kit de Produits",
     "originalPrice": 42500,
     "currentPrice": 33500,
-    "image": "images/Kit_Santé_intime_1-_Longrich.jpg",
+    "image": "images/kit-sante-intime-1-longrich-32.jpg",
     "isPromo": true
   },
   {
+    "id": 33,
     "name": "Vitamin C de Longrich",
     "category": "Produits",
     "originalPrice": 14800,
     "currentPrice": 12000,
-    "image": "images/Vitamin_C_de_Longrich.jpeg",
+    "image": "images/vitamin-c-de-longrich-33.jpeg",
     "isPromo": true
   },
   {
+    "id": 34,
     "name": "Serviette Hygiénique Magnétique Violette de Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 5500,
     "currentPrice": 4000,
-    "image": "images/Serviette_Hygiénique_Magnétique_Violette_de_Longrich.jpg",
+    "image": "images/serviette-hygienique-magnetique-violette-de-longrich-34.jpg",
     "isPromo": true
   },
   {
+    "id": 35,
     "name": "Serviette Hygiénique Magnétique Rose de Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 5500,
     "currentPrice": 4000,
-    "image": "images/Serviette_Hygiénique_Magnétique_Rose_de_Longrich.jpg",
+    "image": "images/serviette-hygienique-magnetique-rose-de-longrich-35.jpg",
     "isPromo": true
   },
   {
+    "id": 36,
     "name": "Serviette Hygiénique Magnétique SuperbKlean – Protège-slip",
     "category": "Hygiène Corporelle",
     "originalPrice": 62800,
     "currentPrice": 57000,
-    "image": "images/Serviette_Hygiénique_Magnétique_SuperbKlean__Protège-slip.jpg",
+    "image": "images/serviette-hygienique-magnetique-superbklean-protege-slip-36.jpg",
     "isPromo": true
   },
   {
+    "id": 37,
     "name": "Gel de douche Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 9500,
     "currentPrice": 8000,
-    "image": "images/Gel_de_douche_Longrich.jpeg",
+    "image": "images/gel-de-douche-longrich-37.jpeg",
     "isPromo": true
   },
   {
+    "id": 38,
     "name": "Lotion régénératrice de Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 7000,
     "currentPrice": 5500,
-    "image": "images/Lotion_régénératrice_de_Longrich.jpeg",
+    "image": "images/lotion-regeneratrice-de-longrich-38.jpeg",
     "isPromo": true
   },
   {
+    "id": 39,
     "name": "Savon liquide de linge à l’artémisine Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 9500,
     "currentPrice": 8000,
-    "image": "images/Savon_liquide_de_linge_à_lartémisine_Longrich.png",
+    "image": "images/savon-liquide-de-linge-a-lartemisine-longrich-39.png",
     "isPromo": true
   },
   {
+    "id": 40,
     "name": "Savon antibactérien à l’artémisinine",
     "category": "Hygiène Corporelle",
     "originalPrice": 5500,
     "currentPrice": 4000,
-    "image": "images/Savon_antibactérien_à_lartémisinine.jpg",
+    "image": "images/savon-antibacterien-a-lartemisinine-40.jpg",
     "isPromo": true
   },
   {
+    "id": 41,
     "name": "Crème Réparatrice de Main",
     "category": "Hygiène Corporelle",
     "originalPrice": 7000,
     "currentPrice": 5000,
-    "image": "images/Crème_Réparatrice_de_Main.jpeg",
+    "image": "images/creme-reparatrice-de-main-41.jpeg",
     "isPromo": true
   },
   {
+    "id": 42,
     "name": "Shampoing 2 en 1 – Longrich",
     "category": "Hygiène Corporelle",
     "originalPrice": 9900,
     "currentPrice": 8000,
-    "image": "images/Shampoing_2_en_1__Longrich.jpeg",
+    "image": "images/shampoing-2-en-1-longrich-42.jpeg",
     "isPromo": true
   },
   {
+    "id": 43,
     "name": "Mengqian (Complément de Fertilité – Femme)",
     "category": "Fertilité & Virilité",
     "originalPrice": 34500,
     "currentPrice": 29000,
-    "image": "images/Mengqian_Complément_de_Fertilité__Femme.jpeg",
+    "image": "images/mengqian-complement-de-fertilite-femme-43.jpeg",
     "isPromo": true
   },
   {
+    "id": 44,
     "name": "Gobelet Alcalin de Longrich",
     "category": "Boissons énergisantes",
     "originalPrice": 62900,
     "currentPrice": 56000,
-    "image": "images/Gobelet_Alcalin_de_Longrich.jpeg",
+    "image": "images/gobelet-alcalin-de-longrich-44.jpeg",
     "isPromo": true
   },
   {
+    "id": 45,
     "name": "Crème de Bébé",
     "category": "Produits",
     "originalPrice": 9900,
     "currentPrice": 8000,
-    "image": "images/Crème_de_Bébé.jpeg",
+    "image": "images/creme-de-bebe-45.jpeg",
     "isPromo": true
   },
   {
+    "id": 46,
     "name": "Pâte Dentifrice au Thé blanc 200g Longrich",
     "category": "Hygiène bucco-dentaire",
     "originalPrice": 7500,
     "currentPrice": 5000,
-    "image": "images/Pâte_Dentifrice_au_Thé_blanc_200g_Longrich.jpeg",
+    "image": "images/pate-dentifrice-au-the-blanc-200g-longrich-46.jpeg",
     "isPromo": true
   },
   {
+    "id": 47,
     "name": "Thé Minceur Longrich",
     "category": "Produits",
     "originalPrice": 8600,
     "currentPrice": 7500,
-    "image": "images/Thé_Minceur_Longrich.jpeg",
+    "image": "images/the-minceur-longrich-47.jpeg",
     "isPromo": true
   },
   {
+    "id": 48,
     "name": "Lait Corporel Au Placenta de Brebis",
     "category": "Hygiène Corporelle",
     "originalPrice": 7500,
     "currentPrice": 5500,
-    "image": "images/Lait_Corporel_Au_Placenta_de_Brebis.jpeg",
+    "image": "images/lait-corporel-au-placenta-de-brebis-48.jpeg",
     "isPromo": true
   },
   {
+    "id": 49,
     "name": "Serviette Hygiénique Magnétique SuperbKlean",
     "category": "Hygiène Corporelle",
     "originalPrice": 67700,
     "currentPrice": 57000,
-    "image": "images/Serviette_Hygiénique_Magnétique_SuperbKlean.jpeg",
+    "image": "images/serviette-hygienique-magnetique-superbklean-49.jpeg",
     "isPromo": true
   }
 ]
